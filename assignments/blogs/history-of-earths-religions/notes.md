@@ -14,3 +14,6 @@
 
 ## Commits
 - Draft + sources + notes added in one commit (see repo history).
+
+## Wake-ups
+- 2026-11-24 19:51 UTC: J-1002 In review, no verdict yet, due label Nov 24 6:29 AM (In review), no progress notes. Baseline saved; no action.
