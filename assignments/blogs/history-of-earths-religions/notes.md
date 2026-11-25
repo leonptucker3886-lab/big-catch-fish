@@ -17,3 +17,5 @@
 
 ## Wake-ups
 - 2026-11-24 19:51 UTC: J-1002 In review, no verdict yet, due label Nov 24 6:29 AM (In review), no progress notes. Baseline saved; no action.
+
+- 2026-11-25 00:31 UTC wake-up: J-1002 Approved (round 1), already published to Leonlink blog. No open cards on the board to claim (J-1003, J-1004 assigned to others).
